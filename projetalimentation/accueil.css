@@ -1,0 +1,10 @@
+.images{
+		filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
+	
+}
+
+.images:hover{
+	filter:  none;
+	-webkit-filter: none; 
+}

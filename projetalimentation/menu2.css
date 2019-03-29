@@ -1,0 +1,43 @@
+.btn{
+		
+		position: relative;
+		top: 153px;
+		left: -384px;	
+		background-color: green;
+		
+}
+
+.prix{
+		font-family: bell MT;
+		bottom: 330px;
+		position: relative;
+		z-index: 1000;
+		left: 33px;
+		color: black;
+
+
+}
+
+.col_2{
+
+	position: relative;
+	left: 500px;
+	bottom: 1200px;
+}
+
+
+.col_3{
+
+	position: absolute;
+	left: 1050px;
+	top: 80px;
+}
+
+.thumbnail{
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%); 
+}
+.thumbnail:hover{
+	filter:  none;
+	-webkit-filter: none; 
+}
